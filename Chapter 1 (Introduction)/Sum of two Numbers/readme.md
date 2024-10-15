@@ -1,3 +1,3 @@
 #Sum of two numbers
 
-![Demo Picture](https://github.com/username/repositoryname/blob/main/path-to-your-image/imagename.png)
+![Demo Picture](Chapter 1 (Introduction)/Sum of two Numbers/PictureDemo.png)
